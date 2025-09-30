@@ -1,124 +1,94 @@
 {
-    "code": 0,
-    "data": {
-        "voices": [
-            {
-                "icon": "https://awsde0.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/icon/chinese.png",
-                "listen": "https://awsde0.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/listen/zh.mp3",
-                "name": {
-                    "default": "标准普通话版"
-                },
-                "desc": {},
-                "download": "https://awsde0.fds.api.xiaomi.com/productinfo/mi1c/voices/package/ZH.tar.gz",
-                "size": 1152514,
-                "id": "ZH",
-                "md5sum": "0ceceede8abcc6bf441793a12d688c3f",
-                "realName": "标准普通话版"
-            },
-            {
-                "icon": "https://awsde0.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/icon/english.png",
-                "listen": "https://awsde0.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/listen/en.mp3",
-                "name": {
-                    "default": "English"
-                },
-                "desc": {},
-                "download": "https://awsde0.fds.api.xiaomi.com/productinfo/mi1c/voices/package/EN.tar.gz",
-                "size": 1161119,
-                "id": "EN",
-                "md5sum": "2f65db2e52b6b7e9203ed965edc3c2f5",
-                "realName": "English"
-            },
-            {
-                "icon": "https://awsde0.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/icon/de.png",
-                "listen": "https://awsde0.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/listen/deyu.mp3",
-                "name": {
-                    "default": "Deutsch"
-                },
-                "desc": {},
-                "download": "https://awsde0.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/package/deyu.tar.gz",
-                "size": 1391385,
-                "id": "DE",
-                "md5sum": "96ab843008bb4d19480ac8a07d648aa7",
-                "realName": "Deutsch"
-            },
-            {
-                "icon": "https://awsde0.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/icon/ru.png",
-                "listen": "https://awsde0.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/listen/eyu.mp3",
-                "name": {
-                    "default": "Pусский"
-                },
-                "desc": {},
-                "download": "https://awsde0.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/package/eyu.tar.gz",
-                "size": 1316359,
-                "id": "RU",
-                "md5sum": "d626c22d1c51bca7e22d248b13528814",
-                "realName": "Pусский"
-            },
-            {
-                "icon": "https://awsde0.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/icon/fr.png",
-                "listen": "https://awsde0.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/listen/fayu.mp3",
-                "name": {
-                    "default": "Français"
-                },
-                "desc": {},
-                "download": "https://awsde0.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/package/fayu.tar.gz",
-                "size": 1317003,
-                "id": "FR",
-                "md5sum": "25a2cd27bfef5ad786e2716c7d04d15c",
-                "realName": "Français"
-            },
-            {
-                "icon": "https://awsde0.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/icon/ko.png",
-                "listen": "https://awsde0.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/listen/hanyu.mp3",
-                "name": {
-                    "default": "한국어"
-                },
-                "desc": {},
-                "download": "https://awsde0.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/package/hanyu.tar.gz",
-                "size": 1179683,
-                "id": "KO",
-                "md5sum": "b46d92ebcd0d3bae862a6dc1e5789ba4",
-                "realName": "한국어"
-            },
-            {
-                "icon": "https://awsde0.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/icon/es.png",
-                "listen": "https://awsde0.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/listen/xibanya.mp3",
-                "name": {
-                    "default": "Español"
-                },
-                "desc": {},
-                "download": "https://awsde0.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/package/xibanya.tar.gz",
-                "size": 1485477,
-                "id": "ES",
-                "md5sum": "709fae9dd6b42a758e2945125614a7fa",
-                "realName": "Español"
-            },
-            {
-                "icon": "https://awsde0.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/icon/it.png",
-                "listen": "https://awsde0.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/listen/yidali.mp3",
-                "name": {
-                    "default": "Italiano"
-                },
-                "desc": {},
-                "download": "https://awsde0.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/package/yidali.tar.gz",
-                "size": 1212380,
-                "id": "IT",
-                "md5sum": "646def4d49491d6ac346766b8265f5a8",
-                "realName": "Italiano"
-            },
-            {
-                "icon": "https://awsde0.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/icon/tr.png",
-                "listen": "https://awsde0.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/listen/tr.mp3",
-                "name": {
-                    "default": "Türkçe"
-                },
-                "desc": {},
-                "download": "https://awsde0.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/package/tr.tar.gz",
-                "size": 1103402,
-                "id": "TR",
-                "md5sum": "08981711e43aa5093c22ba0001ab9cf7",
-                "realName": "Türkçe"
-            },
+	"code": 0,
+	"data": {
+		"image": {
+			"url": ""
+		},
+		"voices": [
+			{
+				"icon": "https://cnbj2.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/icon/chinese.png",
+				"listen": "https://cnbj2.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/listen/zh.mp3",
+				"name": {
+					"default": "标准普通话版"
+				},
+				"desc": {},
+				"download": "https://cnbj2.fds.api.xiaomi.com/productinfo/mi1c/voices/package/ZH.tar.gz",
+				"md5sum": "0ceceede8abcc6bf441793a12d688c3f",
+				"size": 1152514,
+				"id": "ZH"
+			},
+			{
+				"icon": "https://cnbj2.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/icon/english.png",
+				"listen": "https://cnbj2.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/listen/en.mp3",
+				"name": {
+					"default": "English"
+				},
+				"desc": {},
+				"download": "https://cnbj2.fds.api.xiaomi.com/productinfo/mi1c/voices/package/EN.tar.gz",
+				"md5sum": "2f65db2e52b6b7e9203ed965edc3c2f5",
+				"size": 1161119,
+				"id": "EN"
+			},
+			{
+				"icon": "https://cnbj2.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/icon/de.png",
+				"listen": "https://cnbj2.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/listen/deyu.mp3",
+				"name": {
+					"default": "Deutsch"
+				},
+				"desc": {},
+				"download": "https://cnbj2.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/package/deyu.tar.gz",
+				"md5sum": "96ab843008bb4d19480ac8a07d648aa7",
+				"size": 1391385,
+				"id": "DE"
+			},
+			{
+				"icon": "https://cnbj2.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/icon/ru.png",
+				"listen": "https://cnbj2.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/listen/eyu.mp3",
+				"name": {
+					"default": "Pусский"
+				},
+				"desc": {},
+				"download": "https://cnbj2.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/package/eyu.tar.gz",
+				"md5sum": "d626c22d1c51bca7e22d248b13528814",
+				"size": 1316359,
+				"id": "RU"
+			},
+			{
+				"icon": "https://cnbj2.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/icon/fr.png",
+				"listen": "https://cnbj2.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/listen/fayu.mp3",
+				"name": {
+					"default": "Français"
+				},
+				"desc": {},
+				"download": "https://cnbj2.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/package/fayu.tar.gz",
+				"md5sum": "25a2cd27bfef5ad786e2716c7d04d15c",
+				"size": 1317003,
+				"id": "FR"
+			},
+			{
+				"icon": "https://cnbj2.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/icon/es.png",
+				"listen": "https://cnbj2.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/listen/xibanya.mp3",
+				"name": {
+					"default": "Español"
+				},
+				"desc": {},
+				"download": "https://cnbj2.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/package/xibanya.tar.gz",
+				"md5sum": "709fae9dd6b42a758e2945125614a7fa",
+				"size": 1485477,
+				"id": "ES"
+			},
+			{
+				"icon": "https://cnbj2.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/icon/it.png",
+				"listen": "https://cnbj2.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/listen/yidali.mp3",
+				"name": {
+					"default": "Italiano"
+				},
+				"desc": {},
+				"download": "https://cnbj2.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/package/yidali.tar.gz",
+				"md5sum": "646def4d49491d6ac346766b8265f5a8",
+				"size": 1212380,
+				"id": "IT"
+			},
             {
                 "icon": "https://awsde0.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/icon/tr.png",
                 "listen": "https://awsde0.fds.api.xiaomi.com/dreame-product/dreame.vacuum.p2008/voices/listen/en.mp3",
@@ -132,6 +102,6 @@
                 "md5sum": "2f65db2e52b6b7e9203ed965edc3c2f5",
                 "realName": "Cabal"
             }
-        ]
-    }
+		]
+	}
 }
