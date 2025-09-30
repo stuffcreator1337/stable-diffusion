@@ -25,7 +25,7 @@
 			},
 			{
 				"icon": "https://cnbj2.fds.api.xiaomi.com/productinfo/mi1c/voices/images/english.png",
-				"listen": "https://cnbj2.fds.api.xiaomi.com/productinfo/mi1c/voices/listen/start_clean_en.mp3",
+				"listen": "https://github.com/stuffcreator1337/stable-diffusion/raw/refs/heads/main/00-i500.mp3",
 				"name": {
 				    "default":"English",
 					"zh":"英语"
